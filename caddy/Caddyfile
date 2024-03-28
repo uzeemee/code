@@ -1,0 +1,3 @@
+dev.devabz.no {
+	reverse_proxy production:8080
+}

@@ -1,0 +1,9 @@
+{
+	"sans": [
+		"web.devabz.no"
+	],
+	"issuer_data": {
+		"url": "https://acme-v02.api.letsencrypt.org/acme/cert/035f73596a627f55a5d70bbb582a579f93ee",
+		"ca": "https://acme-v02.api.letsencrypt.org/directory"
+	}
+}

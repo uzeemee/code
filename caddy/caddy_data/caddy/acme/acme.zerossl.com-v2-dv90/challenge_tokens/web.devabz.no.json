@@ -1,0 +1,1 @@
+{"type":"http-01","url":"https://acme.zerossl.com/v2/DV90/chall/_s0m0yOTk80NkbEzi__eVA","status":"processing","token":"dzKLbcAjdTvH75kzq2A1FtQXLcAcKNqSJ0oY6_7c8nA","keyAuthorization":"dzKLbcAjdTvH75kzq2A1FtQXLcAcKNqSJ0oY6_7c8nA.9q8yHEamHLPUFNGvgbK4FFEwzLzhqQZTtk4Ks8CS4MA","identifier":{"type":"dns","value":"web.devabz.no"}}
